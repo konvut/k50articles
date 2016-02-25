@@ -1,0 +1,50 @@
+site_name: Справка K☆50
+pages:
+- 'tracker||О сервисе': 'tracker/index.md'
+- 'tracker||Начало работы': 'tracker/first-steps.md'
+- 'tracker||Кодовый трекер': 'tracker/code-tracker.md'
+- 'tracker||Коллтрекинг':
+    - 'tracker||Общие сведения': 'tracker/calltracking/index.md'
+    - 'tracker||Особенности коллтрекинга K☆50': 'tracker/calltracking/features.md'
+    - 'tracker||Перечень доступных регионов': 'tracker/calltracking/supported-regions.md'
+    - 'tracker||Стоимость подключения': 'tracker/calltracking/price.md'
+- 'tracker||Счетчик':
+    - 'tracker||Инициализация счетчика': 'tracker/counters/initialization.md'
+    - 'tracker||Список Javascript методов': 'tracker/counters/javascript-api.md'
+- 'tracker||Анализ статистики':
+    - 'tracker||Отчеты': 'tracker/reports/report-configurator.md'
+    - 'tracker||Список звонков': 'tracker/reports/calls.md'
+    - 'tracker||Список заказов': 'tracker/reports/orders.md'
+    - 'tracker||Список измерений и метрик': 'tracker/reports/dimensions-and-metrics.md'
+- 'tracker||Интеграция с внешними системами':
+    - 'tracker||Интеграция с опимизатором K50': 'tracker/integration/k50.md'
+    - 'tracker||Импорт данных из CRM': 'tracker/integration/crm.md'
+    - 'tracker||Экспорт в Google Analytics': 'tracker/integration/google-analytics.md'
+    - 'tracker||Использование API трекера': 'tracker/integration/tracker-api.md'
+    - 'tracker||Импорт логов звонков': 'tracker/integration/phone-log-import.md'
+- 'tracker||Часто задаваемые вопросы': 'tracker/faq.md'
+- 'tracker-api||Начало работы': 'tracker-api/index.md'
+- 'tracker-api||Получение авторизационного токена': 'tracker-api/token_creation.md'
+- 'tracker-api||Авторизация по токену': 'tracker-api/token_authorization.md'
+- 'tracker-api||Методы API':
+    - 'tracker-api||Получение списка счетчиков': 'tracker-api/api-requests/get-counters-list.md'
+    - 'tracker-api||Получение статистики по звонкам': 'tracker-api/api-requests/get-calls-stat.md'
+    - 'tracker-api||Получение статистики по заказам': 'tracker-api/api-requests/get-orders-stat.md'
+- 'optimisator||О сервисе': 'optimisator/index.md'
+- 'optimisator||Подключение систем':
+    - 'optimisator||Яндекс.Директ': 'optimisator/connect/yandex-direct.md'
+    - 'optimisator||Google AdWords': 'optimisator/connect/google-adwords.md'
+    - 'optimisator||Google Analytics': 'optimisator/connect/google-analytics.md'
+- 'optimisator||Часто задаваемые вопросы': 'optimisator/faq.md'
+- 'generator||Часто задаваемые вопросы': 'generator/faq.md'
+theme_dir: 'theme'
+markdown_extensions:
+    - admonition
+    - footnotes
+    - def_list
+    - fenced_code
+    - tables
+    - meta 
+    - attr_list
+    - nl2br
+    - toc

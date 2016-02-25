@@ -1,0 +1,22 @@
+{%set meta = {"service":["search"],"service_name":["Поиск по справке"],"generator":"K☆50:Генератор","optimisator":"K☆50:Оптимизатор","tracker":"K☆50:Трекер","tracker-api":"API K☆50:Трекера","spravka":"Справка K☆50"} %}
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <script>var base_url = '{{ base_url }}';</script>
+  <script data-main="{{ base_url }}/mkdocs/js/search.js" src="{{ base_url }}/mkdocs/js/require.js"></script>
+{% endblock %}
+
+{% block content %}
+
+  <h1 id="search">Результаты поиска</h1>
+
+  <form id="content_search" action="search.html">
+    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+    <input name="q" id="mkdocs-search-query" type="text" class="search_input search-query ui-autocomplete-input" placeholder="Введите текст для поиска" autocomplete="off" autofocus>
+  </form>
+
+  <div id="mkdocs-search-results">
+    Ничего не удалось найти :(
+  </div>
+
+{% endblock %}
