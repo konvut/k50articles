@@ -138,8 +138,11 @@ code.cs, code.c {
     font-weight: bold;
 }
 .header{
-    display: inline-block;
+    display: inline;
     font-size: larger;
     margin-left: 5px;
 
+}
+.contentinfo{
+    text-align: right;
 }

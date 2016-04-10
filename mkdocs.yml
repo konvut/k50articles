@@ -35,6 +35,9 @@ pages:
     - 'optimisator||Яндекс.Директ': 'optimisator/connect/yandex-direct.md'
     - 'optimisator||Google AdWords': 'optimisator/connect/google-adwords.md'
     - 'optimisator||Google Analytics': 'optimisator/connect/google-analytics.md'
+- 'optimisator||Статистика':
+    - 'optimisator||Общие сведения': 'optimisator/statistics/index.md'
+    - 'optimisator||Настраиваемые метрики': 'optimisator/statistics/custom_metrics.md'
 - 'optimisator||Часто задаваемые вопросы': 'optimisator/faq.md'
 - 'generator||Часто задаваемые вопросы': 'generator/faq.md'
 theme_dir: 'theme'

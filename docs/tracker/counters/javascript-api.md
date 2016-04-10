@@ -1,5 +1,6 @@
 service: tracker
 service_name: K☆50:Трекер
+last_modified: 2016-03-09
 
 #Список Javascript методов
 
@@ -21,13 +22,21 @@ init({
 |**siteId**|Идентификатор счетчика. Обязательный параметр|
 |landing|URL страницы. Позволяет перезаписывать URL, определенный по умолчанию|
 |label|Пользовательская метка. Любой параметр, который вы хотите передать в счетчик, чтобы его использовать в трекер. Например, можно передавать регион.|
+|callback|Функция, которая будет вызвана после инициализации счетчика. Например, можно записать идентификатор текущего сеанса, выданный трекером|
 
 **Пример**
 
 ```js
 <script src="http://cdn.k50.ru/k50/k50tracker2.js"></script>
 <script>
-var k50TrackerInstance = k50Tracker.init({siteId: 1234567, landing: 'test.ru', label: 'msk'});
+var k50TrackerInstance = k50Tracker.init(
+   {
+    siteId: 1234567, 
+    landing: 'test.ru', 
+    label: 'msk', 
+    callback: function(e){/*your code here*/}
+    }
+);
 </script>
 ```
 

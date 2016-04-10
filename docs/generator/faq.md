@@ -1,5 +1,6 @@
 service: generator
 service_name: K☆50:Генератор
+last_modified: 2016-03-09
 
 #Часто задаваемые вопросы
 

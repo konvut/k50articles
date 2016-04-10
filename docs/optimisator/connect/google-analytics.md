@@ -1,5 +1,6 @@
 service: optimisator
 service_name: K☆50:Оптимизатор
+last_modified: 2016-03-09
 
 #Подключение Google Analytics
 К50 позволяет работать с рекламными системами на основе данных **Google Analytics**.

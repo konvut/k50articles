@@ -17,10 +17,10 @@
             <ul>
             {% for toc_item in toc %}
 
-                <li class="toctree-l3"><a href="{{ toc_item.url }}">{% if toc_item.title[0:1].isdigit()%} {{toc_item.title[1:]}}{%else%}{{toc_item.title}}{%endif%}</a></li>
+                <li class="toctree-l3"><a href="{{ toc_item.url }}">{% if toc_item.title[0:2].isdigit()%}{{toc_item.title[2:]}}{%elif toc_item.title[0:1].isdigit()%}{{toc_item.title[1:]}}{%else%}{{toc_item.title}}{%endif%}</a></li>
 
                 {% for toc_item in toc_item.children %}
-                    <li><a class="toctree-l4" href="{{ toc_item.url }}">{% if toc_item.title[0:1].isdigit()%} {{toc_item.title[1:]}}{%else%}{{toc_item.title}}{%endif%}</a></li>
+                    <li><a class="toctree-l4" href="{{ toc_item.url }}">{% if toc_item.title[0:2].isdigit()%}{{toc_item.title[2:]}}{%elif toc_item.title[0:1].isdigit()%}{{toc_item.title[1:]}}{%else%}{{toc_item.title}}{%endif%}</a></li>
                 {% endfor %}
 
             {% endfor %}
@@ -47,10 +47,10 @@
     <ul>
         {% for toc_item in toc %}
 
-        <li class="toctree-l3"><a href="{{ toc_item.url }}">{% if toc_item.title[0:1].isdigit()%} {{toc_item.title[1:]}}{%else%}{{toc_item.title}}{%endif%}</a></li>
+        <li class="toctree-l3"><a href="{{ toc_item.url }}">{% if toc_item.title[0:2].isdigit()%}{{toc_item.title[2:]}}{%elif toc_item.title[0:1].isdigit()%}{{toc_item.title[1:]}}{%else%}{{toc_item.title}}{%endif%}</a></li>
 
         {% for toc_item in toc_item.children %}
-        <li><a class="toctree-l4" href="{{ toc_item.url }}">{% if toc_item.title[0:1].isdigit()%} {{toc_item.title[1:]}}{%else%}{{toc_item.title}}{%endif%}</a></li>
+        <li><a class="toctree-l4" href="{{ toc_item.url }}">{% if toc_item.title[0:2].isdigit()%}{{toc_item.title[2:]}}{%elif toc_item.title[0:1].isdigit()%}{{toc_item.title[1:]}}{%else%}{{toc_item.title}}{%endif%}</a></li>
         {% endfor %}
 
         {% endfor %}

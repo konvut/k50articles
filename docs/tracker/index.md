@@ -1,5 +1,6 @@
 service: tracker
 service_name: K☆50:Трекер
+last_modified: 2016-03-09
 
 #О сервисе
 <a href="http://tracker.k50.ru" target="_blank">K☆50 Трекер</a> — это сервис отслеживания offline и online взаимодействий с сайтом клиента. Он позволяет анализировать:

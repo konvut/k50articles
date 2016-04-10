@@ -2,123 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f6dc39-57ce-46f0-8ee8-6d5d4a223455" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\generator\faq.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\dig_9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\faq.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAdwords_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAdwords_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAdwords_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAdwords_4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAdwords_5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAdwords_6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAdwords_7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectAnalytics_9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectCrm_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectDirect_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectDirect_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectDirect_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectDirect_4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectDirect_5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectDirect_6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\connectDirect_7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\crm-calltracking.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\google-adwords.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\google-analytics.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\k50.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\k50_11.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\k50_12.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\k50_13.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\optimisator\settings\yandex-direct.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\1_create_token.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\1_create_token_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\1_create_token_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\api-requests\get-calls-stat.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\api-requests\get-counters-list.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\api-requests\get-orders-stat.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\index.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\token_authorization.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker-api\token_creation.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\calltracking\features.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\calltracking\index.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\calltracking\price.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\calltracking\supported-regions.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\code-tracker.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\code_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\code_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\counters\initialization.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\counters\javascript-api.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\faq.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\first-steps.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\index.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\integration\crm.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\integration\google-analytics.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\integration\k50.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\integration\k50_11.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\integration\k50_12.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\integration\k50_13.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\integration\phone-log-import.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\integration\tracker-api.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls_10.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls_11.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls_12.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls_41.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls_42.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls_51.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\calls_52.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dig_9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\dimensions-and-metrics.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\orders.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\orders_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\orders_11.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\orders_21.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\orders_22.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\orders_31.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report-configurator.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_11.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_21.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_22.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_41.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_51.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_601.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_602.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_61.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_62.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_71.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_72.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_73.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_74.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_75.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_76.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_81.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\tracker\reports\report_82.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_13.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_14.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_15.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\dig_9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\statistics\1_навигация в статистике.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\statistics\1_настраиваемые метрики.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\statistics\campaign-direct.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\optimisator\statistics\stat-navigation.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User-k50-vova\Documents\GitHub\k50articles\docs\tracker\reports\dig_9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/base.html" afterPath="$PROJECT_DIR$/theme/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/reports/calls.md" afterPath="$PROJECT_DIR$/docs/tracker/reports/calls.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/code-tracker.md" afterPath="$PROJECT_DIR$/docs/tracker/code-tracker.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/integration/crm.md" afterPath="$PROJECT_DIR$/docs/tracker/integration/crm.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/reports/dimensions-and-metrics.md" afterPath="$PROJECT_DIR$/docs/tracker/reports/dimensions-and-metrics.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/generator/faq.md" afterPath="$PROJECT_DIR$/docs/generator/faq.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/optimisator/faq.md" afterPath="$PROJECT_DIR$/docs/optimisator/faq.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/faq.md" afterPath="$PROJECT_DIR$/docs/tracker/faq.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/calltracking/features.md" afterPath="$PROJECT_DIR$/docs/tracker/calltracking/features.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/first-steps.md" afterPath="$PROJECT_DIR$/docs/tracker/first-steps.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/footer.html" afterPath="$PROJECT_DIR$/theme/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker-api/api-requests/get-calls-stat.md" afterPath="$PROJECT_DIR$/docs/tracker-api/api-requests/get-calls-stat.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker-api/api-requests/get-counters-list.md" afterPath="$PROJECT_DIR$/docs/tracker-api/api-requests/get-counters-list.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker-api/api-requests/get-orders-stat.md" afterPath="$PROJECT_DIR$/docs/tracker-api/api-requests/get-orders-stat.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/optimisator/connect/google-adwords.md" afterPath="$PROJECT_DIR$/docs/optimisator/connect/google-adwords.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/optimisator/connect/google-analytics.md" afterPath="$PROJECT_DIR$/docs/optimisator/connect/google-analytics.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/integration/google-analytics.md" afterPath="$PROJECT_DIR$/docs/tracker/integration/google-analytics.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/optimisator/connect/google-adwords/index.html" afterPath="$PROJECT_DIR$/site/optimisator/connect/google-adwords/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/optimisator/connect/google-analytics/index.html" afterPath="$PROJECT_DIR$/site/optimisator/connect/google-analytics/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/optimisator/connect/yandex-direct/index.html" afterPath="$PROJECT_DIR$/site/optimisator/connect/yandex-direct/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/index.html" afterPath="$PROJECT_DIR$/site/tracker/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker-api/index.html" afterPath="$PROJECT_DIR$/site/tracker-api/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker-api/api-requests/get-calls-stat/index.html" afterPath="$PROJECT_DIR$/site/tracker-api/api-requests/get-calls-stat/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker-api/api-requests/get-counters-list/index.html" afterPath="$PROJECT_DIR$/site/tracker-api/api-requests/get-counters-list/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker-api/api-requests/get-orders-stat/index.html" afterPath="$PROJECT_DIR$/site/tracker-api/api-requests/get-orders-stat/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker-api/token_authorization/index.html" afterPath="$PROJECT_DIR$/site/tracker-api/token_authorization/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker-api/token_creation/index.html" afterPath="$PROJECT_DIR$/site/tracker-api/token_creation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/calltracking/index.html" afterPath="$PROJECT_DIR$/site/tracker/calltracking/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/calltracking/features/index.html" afterPath="$PROJECT_DIR$/site/tracker/calltracking/features/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/calltracking/price/index.html" afterPath="$PROJECT_DIR$/site/tracker/calltracking/price/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/calltracking/supported-regions/index.html" afterPath="$PROJECT_DIR$/site/tracker/calltracking/supported-regions/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/code-tracker/index.html" afterPath="$PROJECT_DIR$/site/tracker/code-tracker/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/counters/initialization/index.html" afterPath="$PROJECT_DIR$/site/tracker/counters/initialization/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/counters/javascript-api/index.html" afterPath="$PROJECT_DIR$/site/tracker/counters/javascript-api/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/faq/index.html" afterPath="$PROJECT_DIR$/site/tracker/faq/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/first-steps/index.html" afterPath="$PROJECT_DIR$/site/tracker/first-steps/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/integration/crm/index.html" afterPath="$PROJECT_DIR$/site/tracker/integration/crm/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/integration/google-analytics/index.html" afterPath="$PROJECT_DIR$/site/tracker/integration/google-analytics/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/integration/k50/index.html" afterPath="$PROJECT_DIR$/site/tracker/integration/k50/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/integration/phone-log-import/index.html" afterPath="$PROJECT_DIR$/site/tracker/integration/phone-log-import/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/integration/tracker-api/index.html" afterPath="$PROJECT_DIR$/site/tracker/integration/tracker-api/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/reports/calls/index.html" afterPath="$PROJECT_DIR$/site/tracker/reports/calls/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/reports/dimensions-and-metrics/index.html" afterPath="$PROJECT_DIR$/site/tracker/reports/dimensions-and-metrics/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/reports/orders/index.html" afterPath="$PROJECT_DIR$/site/tracker/reports/orders/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tracker/reports/report-configurator/index.html" afterPath="$PROJECT_DIR$/site/tracker/reports/report-configurator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/optimisator/index.md" afterPath="$PROJECT_DIR$/docs/optimisator/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/index.md" afterPath="$PROJECT_DIR$/docs/tracker/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker-api/index.md" afterPath="$PROJECT_DIR$/docs/tracker-api/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/calltracking/index.md" afterPath="$PROJECT_DIR$/docs/tracker/calltracking/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/counters/initialization.md" afterPath="$PROJECT_DIR$/docs/tracker/counters/initialization.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/counters/javascript-api.md" afterPath="$PROJECT_DIR$/docs/tracker/counters/javascript-api.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/integration/k50.md" afterPath="$PROJECT_DIR$/docs/tracker/integration/k50.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mkdocs.yml" afterPath="$PROJECT_DIR$/mkdocs.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/reports/orders.md" afterPath="$PROJECT_DIR$/docs/tracker/reports/orders.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/integration/phone-log-import.md" afterPath="$PROJECT_DIR$/docs/tracker/integration/phone-log-import.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/calltracking/price.md" afterPath="$PROJECT_DIR$/docs/tracker/calltracking/price.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/reports/report-configurator.md" afterPath="$PROJECT_DIR$/docs/tracker/reports/report-configurator.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/search.html" afterPath="$PROJECT_DIR$/site/search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/mkdocs/search_index.json" afterPath="$PROJECT_DIR$/site/mkdocs/search_index.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/sitemap.xml" afterPath="$PROJECT_DIR$/site/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/calltracking/supported-regions.md" afterPath="$PROJECT_DIR$/docs/tracker/calltracking/supported-regions.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/css/theme_extra.css" afterPath="$PROJECT_DIR$/site/css/theme_extra.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/css/theme_extra.css" afterPath="$PROJECT_DIR$/theme/css/theme_extra.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/toc.html" afterPath="$PROJECT_DIR$/theme/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker-api/token_authorization.md" afterPath="$PROJECT_DIR$/docs/tracker-api/token_authorization.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker-api/token_creation.md" afterPath="$PROJECT_DIR$/docs/tracker-api/token_creation.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tracker/integration/tracker-api.md" afterPath="$PROJECT_DIR$/docs/tracker/integration/tracker-api.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/optimisator/connect/yandex-direct.md" afterPath="$PROJECT_DIR$/docs/optimisator/connect/yandex-direct.md" />
     </list>
     <ignored path="k50articles.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -139,64 +119,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="mkdocs.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mkdocs.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16776316">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toc.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/toc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.961538">
+              <caret line="22" column="226" selection-start-line="22" selection-start-column="226" selection-end-line="22" selection-end-column="226" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="code-tracker.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/tracker/code-tracker.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.1724138">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="yandex-direct.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/optimisator/connect/yandex-direct.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state vertical-scroll-proportion="-4.6896553">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mkdocs.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mkdocs.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6644737">
-              <caret line="38" column="59" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="faq.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/generator/faq.md">
+      <file leaf-file-name="features.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/features.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.448277">
+              <caret line="55" column="76" selection-start-line="55" selection-start-column="76" selection-end-line="55" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dimensions-and-metrics.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/tracker/reports/dimensions-and-metrics.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google-analytics.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/optimisator/connect/google-analytics.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="versions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/versions.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="calls.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/tracker/reports/calls.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="orders.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/tracker/reports/orders.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="69" column="65" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="65" />
-              <folding />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,18 +241,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/tracker/calltracking/features.md" />
+        <option value="$PROJECT_DIR$/theme/search.html" />
+        <option value="$PROJECT_DIR$/theme/breadcrumbs.html" />
+        <option value="$PROJECT_DIR$/theme/css/theme_extra.css" />
+        <option value="$PROJECT_DIR$/docs/generator/faq.md" />
+        <option value="$PROJECT_DIR$/docs/optimisator/connect/yandex-direct.md" />
+        <option value="$PROJECT_DIR$/docs/optimisator/connect/google-adwords.md" />
+        <option value="$PROJECT_DIR$/docs/optimisator/connect/google-analytics.md" />
+        <option value="$PROJECT_DIR$/docs/optimisator/faq.md" />
+        <option value="$PROJECT_DIR$/docs/optimisator/index.md" />
         <option value="$PROJECT_DIR$/docs/tracker/calltracking/index.md" />
         <option value="$PROJECT_DIR$/docs/tracker/calltracking/price.md" />
         <option value="$PROJECT_DIR$/docs/tracker/calltracking/supported-regions.md" />
-        <option value="$PROJECT_DIR$/docs/tracker/counters/javascript-api.md" />
         <option value="$PROJECT_DIR$/docs/tracker/counters/initialization.md" />
         <option value="$PROJECT_DIR$/docs/tracker/integration/crm.md" />
         <option value="$PROJECT_DIR$/docs/tracker/integration/google-analytics.md" />
         <option value="$PROJECT_DIR$/docs/tracker/integration/k50.md" />
         <option value="$PROJECT_DIR$/docs/tracker/integration/phone-log-import.md" />
         <option value="$PROJECT_DIR$/docs/tracker/integration/tracker-api.md" />
-        <option value="$PROJECT_DIR$/docs/tracker/reports/dimensions-and-metrics.md" />
+        <option value="$PROJECT_DIR$/docs/tracker/reports/calls.md" />
+        <option value="$PROJECT_DIR$/docs/tracker/reports/orders.md" />
+        <option value="$PROJECT_DIR$/docs/tracker/reports/report-configurator.md" />
         <option value="$PROJECT_DIR$/docs/tracker/faq.md" />
         <option value="$PROJECT_DIR$/docs/tracker/first-steps.md" />
         <option value="$PROJECT_DIR$/docs/tracker/index.md" />
@@ -230,22 +271,14 @@
         <option value="$PROJECT_DIR$/docs/tracker-api/index.md" />
         <option value="$PROJECT_DIR$/docs/tracker-api/token_authorization.md" />
         <option value="$PROJECT_DIR$/docs/tracker-api/token_creation.md" />
-        <option value="$PROJECT_DIR$/docs/optimisator/faq.md" />
-        <option value="$PROJECT_DIR$/docs/optimisator/index.md" />
-        <option value="$PROJECT_DIR$/docs/generator/faq.md" />
-        <option value="$PROJECT_DIR$/theme/search.html" />
-        <option value="$PROJECT_DIR$/theme/breadcrumbs.html" />
+        <option value="$PROJECT_DIR$/docs/tracker/counters/javascript-api.md" />
+        <option value="$PROJECT_DIR$/theme/footer.html" />
         <option value="$PROJECT_DIR$/theme/base.html" />
-        <option value="$PROJECT_DIR$/docs/optimisator/connect/yandex-direct.md" />
-        <option value="$PROJECT_DIR$/docs/optimisator/connect/google-adwords.md" />
-        <option value="$PROJECT_DIR$/docs/tracker/code-tracker.md" />
-        <option value="$PROJECT_DIR$/theme/css/theme_extra.css" />
-        <option value="$PROJECT_DIR$/docs/tracker/reports/report-configurator.md" />
-        <option value="$PROJECT_DIR$/theme/toc.html" />
-        <option value="$PROJECT_DIR$/docs/tracker/reports/calls.md" />
-        <option value="$PROJECT_DIR$/docs/tracker/reports/orders.md" />
+        <option value="$PROJECT_DIR$/docs/tracker/calltracking/features.md" />
         <option value="$PROJECT_DIR$/docs/optimisator/statistics/1_навигация в статистике.md" />
-        <option value="$PROJECT_DIR$/docs/optimisator/connect/google-analytics.md" />
+        <option value="$PROJECT_DIR$/docs/tracker/reports/dimensions-and-metrics.md" />
+        <option value="$PROJECT_DIR$/docs/tracker/code-tracker.md" />
+        <option value="$PROJECT_DIR$/theme/toc.html" />
         <option value="$PROJECT_DIR$/mkdocs.yml" />
       </list>
     </option>
@@ -382,6 +415,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="k50articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="k50articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tracker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="counters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="k50articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="k50articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="optimisator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -450,8 +527,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,6 +537,40 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -513,20 +624,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/theme/css/theme_extra.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="126" column="4" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme/searchbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/optimisator/connect/yandex-direct.md" />
     <entry file="file://$PROJECT_DIR$/mkdocs.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -575,46 +672,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/optimisator/faq.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/features.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/index.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/price.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/supported-regions.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/counters/javascript-api.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/counters/initialization.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/crm.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/google-analytics.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/k50.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/phone-log-import.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/tracker-api.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/reports/dimensions-and-metrics.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027960526">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/tracker/faq.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/first-steps.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker/index.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker-api/api-requests/get-calls-stat.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker-api/api-requests/get-counters-list.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker-api/api-requests/get-orders-stat.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker-api/token_authorization.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker-api/token_creation.md" />
-    <entry file="file://$PROJECT_DIR$/docs/optimisator/index.md" />
-    <entry file="file://$PROJECT_DIR$/docs/optimisator/faq.md" />
-    <entry file="file://$PROJECT_DIR$/docs/tracker-api/index.md" />
     <entry file="file://$PROJECT_DIR$/theme/search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="208" selection-start-line="0" selection-start-column="208" selection-end-line="0" selection-end-column="213" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme/breadcrumbs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17525773">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -625,24 +686,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="89" column="37" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/docs/optimisator/connect/google-adwords.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme/css/theme_extra.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme/toc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4312714">
-          <caret line="49" column="60" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="128" />
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -651,9 +701,118 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/optimisator/faq.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/optimisator/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/price.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/supported-regions.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/counters/initialization.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/crm.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/google-analytics.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/k50.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/phone-log-import.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/integration/tracker-api.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -662,9 +821,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="81" />
-          <folding />
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -673,9 +831,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="69" column="65" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="65" />
-          <folding />
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -684,29 +841,162 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="42.75862">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/tracker/code-tracker.md">
+    <entry file="file://$PROJECT_DIR$/docs/tracker/faq.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8965516">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/first-steps.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.061594203">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker-api/api-requests/get-calls-stat.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.061594203">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker-api/api-requests/get-counters-list.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker-api/api-requests/get-orders-stat.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.061594203">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker-api/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker-api/token_authorization.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker-api/token_creation.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/css/theme_extra.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="21" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/optimisator/statistics/1_навигация в статистике.md">
+    <entry file="file://$PROJECT_DIR$/theme/breadcrumbs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/counters/javascript-api.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.344828">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/versions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/calltracking/features.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.448277">
+          <caret line="55" column="76" selection-start-line="55" selection-start-column="76" selection-end-line="55" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,19 +1005,28 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3523316">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/optimisator/connect/google-adwords.md">
+    <entry file="file://$PROJECT_DIR$/docs/tracker/reports/dimensions-and-metrics.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tracker/code-tracker.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94127804">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="78" />
+        <state vertical-scroll-proportion="-1.1724138">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -736,16 +1035,24 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state vertical-scroll-proportion="-4.6896553">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/toc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.961538">
+          <caret line="22" column="226" selection-start-line="22" selection-start-column="226" selection-end-line="22" selection-end-column="226" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mkdocs.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6644737">
-          <caret line="38" column="59" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.16776316">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
