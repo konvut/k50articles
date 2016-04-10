@@ -31,10 +31,16 @@ pages:
     - 'tracker-api||Получение статистики по звонкам': 'tracker-api/api-requests/get-calls-stat.md'
     - 'tracker-api||Получение статистики по заказам': 'tracker-api/api-requests/get-orders-stat.md'
 - 'optimisator||О сервисе': 'optimisator/index.md'
+- 'optimisator||Главная страница': 'optimisator/main-page.md'
 - 'optimisator||Подключение систем':
     - 'optimisator||Яндекс.Директ': 'optimisator/connect/yandex-direct.md'
     - 'optimisator||Google AdWords': 'optimisator/connect/google-adwords.md'
     - 'optimisator||Google Analytics': 'optimisator/connect/google-analytics.md'
+    - 'optimisator||K☆50 Трекер': 'optimisator/connect/k50.md'
+    - 'optimisator||Calltouch': 'optimisator/connect/calltouch.md'
+    - 'optimisator||Comagic': 'optimisator/connect/comagic.md'
+    - 'optimisator||Calltracking.ru': 'optimisator/connect/calltrackingru.md'
+    - 'optimisator||Произвольная CRM': 'optimisator/connect/crm.md'
 - 'optimisator||Статистика':
     - 'optimisator||Общие сведения': 'optimisator/statistics/index.md'
     - 'optimisator||Настраиваемые метрики': 'optimisator/statistics/custom_metrics.md'
