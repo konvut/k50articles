@@ -46,7 +46,7 @@ pages:
     - 'optimisator||Настраиваемые метрики': 'optimisator/statistics/custom_metrics.md'
 - 'optimisator||Часто задаваемые вопросы': 'optimisator/faq.md'
 - 'generator||О сервисе': 'generator/index.md'
-- 'generator||Фиды для работы с сервисом': 'generator/feed/basic.md'
+- 'generator||Фиды для работы с сервисом': 'generator/feed/index.md'
 - 'generator||Часто задаваемые вопросы': 'generator/faq.md'
 theme_dir: 'theme'
 markdown_extensions:
