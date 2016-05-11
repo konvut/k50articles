@@ -48,7 +48,7 @@ pages:
 - 'generator||О сервисе': 'generator/index.md'
 - 'generator||Фиды для работы с сервисом': 'generator/feed/index.md'
 - 'generator||Функции и теги':
-    - 'generator||Применение тегов': 'generator/functions/tegs.md'
+    - 'generator||Применение тегов': 'generator/functions/tags.md'
     - 'generator||Синтаксис функций': 'generator/functions/syntax.md'
     - 'generator||Список функций': 'generator/functions/list.md'
 - 'generator||Часто задаваемые вопросы': 'generator/faq.md'
