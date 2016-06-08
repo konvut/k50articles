@@ -46,7 +46,20 @@ pages:
     - 'optimisator||Настраиваемые метрики': 'optimisator/statistics/custom_metrics.md'
 - 'optimisator||Часто задаваемые вопросы': 'optimisator/faq.md'
 - 'generator||О сервисе': 'generator/index.md'
+- 'generator||Начало работы':
+    - 'generator||Создание проекта': 'generator/start/project.md'
+    - 'generator||Создание кампании': 'generator/start/company.md'
+    - 'generator||Список проектов': 'generator/start/project-list.md'
+    - 'generator||Список кампаний': 'generator/start/company-list.md'
 - 'generator||Фиды для работы с сервисом': 'generator/feed/index.md'
+- 'generator||Работа с кампанией': 
+    - 'generator||Правила': 'generator/work/rules.md'
+    - 'generator||Шаблоны объявлений': 'generator/work/template-text.md'
+    - 'generator||Ключевые слова': 'generator/work/template-keyword.md'
+    - 'generator||Ставки': 'generator/work/bid.md'
+    - 'generator||Сохранение': 'generator/work/save.md'
+    - 'generator||Параметры кампании': 'generator/work/settings.md'
+    - 'generator||Наследование': 'generator/work/daughter.md'
 - 'generator||Функции и теги':
     - 'generator||Применение тегов': 'generator/functions/tags.md'
     - 'generator||Синтаксис функций': 'generator/functions/syntax.md'
