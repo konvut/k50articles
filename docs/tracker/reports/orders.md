@@ -56,7 +56,7 @@ last_modified: 2016-03-09
 |-----------|--------|
 |Дата визита|Дата текущего посещения|
 |Referrer|Реферер посещения|
-|Landing|Старница входа|
+|Landing|Страница входа|
 |utm_medium|Метка utm_medium, взятая из Landing (для offline заказов) либо метка utm_medium звонка, сконвертированного в заказ (для online заказов)|
 |utm_source|Метка utm_source, взятая из Landing (для offline заказов) либо метка utm_source звонка, сконвертированного в заказ (для online заказов)|
 |utm_campaign|Метка utm_campaign, взятая из Landing (для offline заказов) либо метка utm_campaign звонка, сконвертированного в заказ (для online заказов)|
