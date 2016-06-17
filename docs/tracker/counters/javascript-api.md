@@ -27,16 +27,16 @@ init({
 **Пример**
 
 ```js
-<script src="http://cdn.k50.ru/k50/k50tracker2.js"></script>
 <script>
-var k50TrackerInstance = k50Tracker.init(
-   {
-    siteId: 1234567, 
-    landing: 'test.ru', 
-    label: 'msk', 
-    callback: function(e){/*your code here*/}
-    }
-);
+(function(c,a,p) {
+var s = document.createElement(a); s.src = p; s.type = "text/javascript"; s.async =!0; s.readyState ? s.onreadystatechange = function() { if ( s.readyState === "loaded" || s.readyState === "complete" ) { s.onreadystatechange = null; c();}} : s.onload = function () {c();}; var n = document.getElementsByTagName(a)[0]; n.parentNode.insertBefore(s,n); })(function(){
+    k50Tracker.init({
+        siteId: 1234567,
+        landing: 'test.ru',
+        label: 'msk',
+        callback: function(e){/*your code here*/}
+})
+},"script","https://k50-a.akamaihd.net/k50/k50tracker2.js");
 </script>
 ```
 
@@ -52,7 +52,7 @@ change()
 
 ```js
 <script>
-k50TrackerInstance.change();
+k50Tracker.change();
 </script>
 ```
 
@@ -67,7 +67,7 @@ getResultData()
 
 ```js
 <script>
-k50TrackerInstance.getResultData();
+k50Tracker.getResultData();
 </script>
 ```
 
@@ -75,8 +75,8 @@ k50TrackerInstance.getResultData();
 
 ```json
 {
-sid: <string>, 
-uuid: <string>, 
+sid: <string>,
+uuid: <string>,
 phones: [
           {
             number: <integer>,
@@ -84,7 +84,7 @@ phones: [
           },
           ...
         ]
-}        
+}
 ```
 
 |Параметр|Описание|
