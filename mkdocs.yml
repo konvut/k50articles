@@ -60,7 +60,7 @@ pages:
     - 'generator||Сохранение': 'generator/work/save.md'
     - 'generator||Параметры кампании': 'generator/work/settings.md'
     - 'generator||Наследование': 'generator/work/daughter.md'
-    - 'generator||Список функций': 'generator/work/links.md'
+    - 'generator||Ссылки': 'generator/work/links.md'
 - 'generator||Функции и теги':
     - 'generator||Применение тегов': 'generator/functions/tags.md'
     - 'generator||Синтаксис функций': 'generator/functions/syntax.md'

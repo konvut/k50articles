@@ -11,6 +11,7 @@ last_modified: 2016-03-09
 init({
       siteId:<integer>,
       landing:<string>,
+      domReady:<string>,
       label:<string>
      })
 ```
@@ -22,6 +23,7 @@ init({
 |**siteId**|Идентификатор счетчика. Обязательный параметр|
 |landing|URL страницы. Позволяет перезаписывать URL, определенный по умолчанию|
 |label|Пользовательская метка. Любой параметр, который вы хотите передать в счетчик, чтобы его использовать в трекер. Например, можно передавать регион.|
+|domReady|Если указано значение k50BeforeDomReady, то номера будут подменяться до загрузки DOM. По умолчанию номера подменяются после загрузку DOM|
 |callback|Функция, которая будет вызвана после инициализации счетчика. Например, можно записать идентификатор текущего сеанса, выданный трекером|
 
 **Пример**
@@ -34,6 +36,7 @@ var s = document.createElement(a); s.src = p; s.type = "text/javascript"; s.asyn
         siteId: 1234567,
         landing: 'test.ru',
         label: 'msk',
+        domReady:'k50BeforeDomReady',
         callback: function(e){/*your code here*/}
 })
 },"script","https://k50-a.akamaihd.net/k50/k50tracker2.js");
