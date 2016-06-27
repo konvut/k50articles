@@ -66,6 +66,11 @@ pages:
     - 'generator||Синтаксис функций': 'generator/functions/syntax.md'
     - 'generator||Список функций': 'generator/functions/list.md'
 - 'generator||Часто задаваемые вопросы': 'generator/faq.md'
+- 'best-practices||Введение': 'best-practices/index.md'
+- 'best-practices||Оптимизатор':
+    - 'best-practices||Статистика: Поиск неэффективных ключевых слов': 'best-practices/optimisator/neeffektivnye-klyuchevye-slova.md'
+    - 'best-practices||Правила: Мониторинг эффективности кампании': 'best-practices/optimisator/monitoring-effektivnosti.md'
+    - 'best-practices||Правила: Увеличение показателя качества аккаунта': 'best-practices/optimisator/uvelicheniya-pk-akkaunta.md'
 theme_dir: 'theme'
 markdown_extensions:
     - admonition
